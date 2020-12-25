@@ -1,6 +1,6 @@
 # Bijection_Method
 ## Let Equation be : 
-  f(x) = x*x*x - x - 4
+ <pre> f(x) = x*x*x - x - 4  </pre>
   
 ## Output : 
 <pre>
